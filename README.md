@@ -44,7 +44,6 @@ Built an interactive Power BI dashboard to visualize Electric Insurance Companyâ
 ## ðŸ“š What I Learned
 
 - Superficial profitability can hide deep structural problems
-- Visual storytelling can clarify complex financial patterns
 - Rate regulations and claim volatility play major roles in insurer stability
 
 ---
