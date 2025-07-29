@@ -33,8 +33,7 @@ Built an interactive Power BI dashboard to visualize Electric Insurance Companyâ
 </p>
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/8957edd6-ccc4-4bb2-8eca-2346adb8ef15" width="45%" />
-  <img src="https://github.com/user-attachments/assets/74ee742a-354b-431f-9070-586e2beba554" width="45%" />
+  <img src="https://github.com/user-attachments/assets/8957edd6-ccc4-4bb2-8eca-2346adb8ef15" width="90%" />
 </p>
 
 ---
