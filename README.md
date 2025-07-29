@@ -1,7 +1,7 @@
 # 📊 EIC Financial Analysis (2014–2018)
 
 ## 🚀 Overview  
-Built an interactive Power BI dashboard to visualize Electric Insurance Company’s financials from 2014–2018. This project uncovered how persistent underwriting losses and delayed strategic actions led to the company’s collapse—despite a return to profitability in 2018.
+Built an interactive Power BI dashboard to visualize Electric Insurance Company’s financials from 2014 to 2018. This project uncovered how persistent underwriting losses and delayed strategic actions led to the company’s collapse despite a return to profitability in 2018.
 
 ---
 
